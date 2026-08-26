@@ -1,0 +1,7 @@
+{
+  "name": "MauriServ",
+  "description": "Mauritius-first managed marketplace connecting households with trusted verified professionals for household services, maintenance, and home management.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
